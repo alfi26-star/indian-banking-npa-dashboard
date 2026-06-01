@@ -24,16 +24,18 @@ This project analyzes Gross and Net NPA trends in the Indian banking sector from
 
 ## Summary Statistics
 
-       Gross_NPA_Percent  Net_NPA_Percent
-count          28.000000        28.000000
-mean            6.941135         3.283847
-std             4.269306         2.384616
-min             2.200000         0.622624
-25%             3.100000         1.196612
-50%             6.516233         2.400000
-75%             9.575000         5.350000
-max            15.700000         8.100000
+| Statistic          | Gross NPA % | Net NPA % |
+| ------------------ | ----------- | --------- |
+| Count              | 28.00       | 28.00     |
+| Mean               | 6.94        | 3.28      |
+| Standard Deviation | 4.27        | 2.38      |
+| Minimum            | 2.20        | 0.62      |
+| 25th Percentile    | 3.10        | 1.19      |
+| Median (50%)       | 6.52        | 2.40      |
+| 75th Percentile    | 9.58        | 5.35      |
+| Maximum            | 15.70       | 8.10      |
 
+## Summary Statistics
 
 | Metric            | Observation         |
 | ----------------- | ------------------- |
