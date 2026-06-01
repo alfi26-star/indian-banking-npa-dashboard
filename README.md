@@ -46,13 +46,14 @@ This project analyzes Gross and Net NPA trends in the Indian banking sector from
 
 ---
 
+
 ## Worst Banking Stress Year
 
-Year                 1996-97   
-Gross_NPA_Percent          15.7
-Net_NPA_Percent             8.1
-Gross_NPA_Change            NaN
-Rolling_Avg_NPA             NaN
+| Metric            | Value   |
+| ----------------- | ------- |
+| Year              | 1996–97 |
+| Gross NPA Percent | 15.7    |
+| Net NPA Percent   | 8.1     |
 
 The analysis identified the late 1990s as the period of highest banking stress in India, with Gross NPAs peaking significantly.
 
