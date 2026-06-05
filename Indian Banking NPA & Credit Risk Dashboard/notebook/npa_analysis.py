@@ -7,6 +7,7 @@ df = pd.read_excel(
     sheet_name="clean_data"
 )
 
+
 df = df.iloc[::-1].reset_index(drop=True)
 
 # Print first rows
